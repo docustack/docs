@@ -51,10 +51,10 @@ master_doc = 'content'
 
 # General information about the project.
 project = 'Mac Client User Guide'
-copyright = '2019, Gladinet Inc'
-author = 'centrestack'
+copyright = '2021, Docustack (Pty) Ltd'
+author = 'Docustack'
 
-prodname = 'CentreStack'
+prodname = 'Docustack'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 
