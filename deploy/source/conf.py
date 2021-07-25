@@ -50,8 +50,8 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Installation Checklist'
-copyright = '© Copyright 2021 - Gladinet, Inc. All Rights Reserved'
-author = 'Gladinet, Inc.'
+copyright = '© Copyright 2021 - Docustack (Pty) Ltd, All Rights Reserved'
+author = 'Docustack (Pty) Ltd'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
