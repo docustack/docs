@@ -48,9 +48,9 @@ source_suffix = '.rst'
 master_doc = 'content'
 
 # General information about the project.
-project = u'Hosted CentreStack Admin Guide'
-copyright = u'2018, Gladinet, Inc.'
-author = u'Gladinet, Inc.'
+project = u'Hosted Docustack Admin Guide'
+copyright = u'2021, Docustack (Pty) Ltd'
+author = u'Docustack'
 
 # TR Edit
 # The following variables weren't working as a pair as replacements, not sure how to code this, so I've commented them out and directly replaced them below.
@@ -62,8 +62,8 @@ author = u'Gladinet, Inc.'
 # Direct replacements of variables in the document
 
 rst_epilog = """
-.. |prodname| replace:: CentreStack
-.. |websiteurl| replace:: https://centrestack.com/
+.. |prodname| replace:: Docustack
+.. |websiteurl| replace:: https://docustack.co.za/
 """
 # End TR Edit
 
