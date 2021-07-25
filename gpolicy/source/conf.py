@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Group Policy Settings'
-copyright = '2018, administrator'
-author = 'administrator'
+copyright = '2021, Docustack (Pty) Ltd'
+author = 'Docustack'
 
 # The short X.Y version
 version = ''
