@@ -48,8 +48,8 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Quick Start Guide'
-copyright = '2018, Gladinet, Inc.'
-author = 'Gladinet, Inc.'
+copyright = '2021, Docustack (Pty) Ltd'
+author = 'Docustack'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
