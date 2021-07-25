@@ -50,7 +50,7 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Administration Guide'
-copyright = '2021, Docustack, (Pty) Ltd.'
+copyright = '2021, Docustack (Pty) Ltd.'
 author = 'Docustack'
 
 prodname = 'Docustack'
