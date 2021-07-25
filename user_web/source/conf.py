@@ -49,11 +49,11 @@ source_suffix = '.rst'
 master_doc = 'contents'
 
 # General information about the project.
-project = 'Triofox Web Portal User Guide'
-copyright = '2020, Corporate Shields, LLC.'
-author = 'Corporate Shields'
+project = 'Docustack Web Portal User Guide'
+copyright = '2021, Docustack (Pty) Ltd'
+author = 'Docustack'
 
-prodname = 'Triofox'
+prodname = 'Docustack'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 
